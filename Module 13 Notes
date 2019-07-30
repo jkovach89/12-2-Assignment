@@ -1,0 +1,35 @@
+Five points of A/B Test
+
+Two versions of a thing - Control v. Test
+User Sample of 'thing' divided into two groups - control group v test group
+Hypothesis - what difference will the control group have
+Outcome - key metric
+Other variables
+
+13.2 Assignment
+
+1. Supplement
+    -New formula vs. Old formula: Ideally with only one major change in composition for control
+    -Sample - Purchasers of supplement: random population with 50% receiving old formula and 50% receiving new formula. Ideally, these would be balanced for factors like age, weight, and sex.
+    -Hypothesis: We expect that a new formula would be an improvement, therefore the test group (new formula) should sleep better than the control group (old formula).
+    -Outcome: The key metric we are probably looking for will be hours of sleep per night, although this may not be the best indicator. Other variables like number of times waking, quality of sleep, and even abstracts such as performance on a test may be required to determine whether sleep is 'better'.
+
+2. Uniforms for Gym:
+    -New uniform vs. Old uniform
+    -Sample - Gym locations. We would want to differentiate between new and old uniforms on a location by location basis so that a customer would not have conflicting experiences at a given location and thus contribute noise to the data.
+    -Hypothesis: We expect that the new uniforms will improve sales of memberships, therefore the gyms with the new uniform should enroll more new members than ones with the old uniform.
+    -Outcome: We would want to look at three key metrics for this study: (in order of importance) dollars per enrollment, total sales in dollars, and total new enrollments. Measuring improvement of business would rely on these three because a new uniform may work well with a select few individuals (willing to buy a higher membership amount) or it may get more enrollments for a more basic plan.
+    -Other key metrics: Ideally we would want to identify standard metrics such as age, sex, user's visit frequency as uniforms that test well with one segment, may not with another (i.e. men v. women)
+    
+3. Web Home Page
+    -New page vs. Old page
+    -Sample - Visitors to website. Initially, all visitors over a select time period should be sent, at random, the old version or new version of the page. 
+    -Hypothesis: We expect that a new home page would improve traffic and therefore sales.
+    -Outcome: Again, in the business sense, 'improvement' would indicate that the key metric is total sales. Becuase the page itself is the thing to be tested, sales per click, or per visit are secondary metrics along with age, sex, race, etc.
+    
+4. "Please Read"
+    -Email with 'please read' vs. Email without 'please read'
+    -Sample - Recipients of email. 50% should receive w/o 'please read' and 50% with. 
+    -Hypothesis: We expect that emails including 'please read' will have a higher view rate.
+    -Outcome: Ideally, emails would have read receipts in this study. If the email did not provide a read receipt, we would ideally like to see response rate (indicating the email was read in order to be responded to) and the open rate.
+    -Other key metrics: This test could be interesting, because we could re-test with the negative group of each email. For instance, the group who doesn't read emails without 'please read' could be resent the email with 'please read' to determine if the addition of 'please read' has any bearing on the same user's inclination to open an email. Vice versa could be performed to determine if adding 'please read' seems 'spammy' to users and causes a lower read rate.
