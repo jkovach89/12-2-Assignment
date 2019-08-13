@@ -1,0 +1,10 @@
+Consider the advantages and disadvantages of treating the Rank variable as categorical. Discuss your arguments with your mentor.
+
+Classifying rank as a categorical variable would allow us to differentiate between various points on a preset index to identify differences in the data between each. However, it also creates difficulty plotting because treating each rank as a category creates far too many plots to be effective.
+
+What are the types of the following variables?
+-Age - Continuous Ratio Variable
+-Salary - Continuous Ratio Variable
+-Revenue - Interval Ratio Variable
+-Customer type - Nominal Categorical Variable
+-Stock price - Continuous Ratio Variable
